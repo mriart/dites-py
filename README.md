@@ -1,5 +1,4 @@
 # dites
-Repo for the dites project
 
 This is a web site created with python and flask that serves catalan dites. 
 Each day, it provides a dita according to the day (Sant Jordi, Santa Llúcia...) or period (Winter, Summer...).
