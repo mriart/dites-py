@@ -1,0 +1,7 @@
+applications:
+- name: dites
+  memory: 128MB
+  host: dites
+  instances: 1
+  path: .
+  buildpack: python_buildpack
