@@ -1,4 +1,4 @@
-# dites
+# dites-py
 
 This is a web site created with python and bottle that serves catalan dites. 
 Each day, it provides a dita according to the day (Sant Jordi, Santa Llúcia...) or period (Winter, Summer...).
